@@ -1,0 +1,9 @@
+c:\Users\Aktore\documents\visual studio 2015\Projects\MVC\OnionApp\OnionApp.Infrastructure.Business\bin\Debug\OnionApp.Infrastructure.Business.dll
+c:\Users\Aktore\documents\visual studio 2015\Projects\MVC\OnionApp\OnionApp.Infrastructure.Business\bin\Debug\OnionApp.Infrastructure.Business.pdb
+c:\Users\Aktore\documents\visual studio 2015\Projects\MVC\OnionApp\OnionApp.Infrastructure.Business\bin\Debug\OnionApp.Domain.Core.dll
+c:\Users\Aktore\documents\visual studio 2015\Projects\MVC\OnionApp\OnionApp.Infrastructure.Business\bin\Debug\OnionApp.Services.Interfaces.dll
+c:\Users\Aktore\documents\visual studio 2015\Projects\MVC\OnionApp\OnionApp.Infrastructure.Business\bin\Debug\OnionApp.Domain.Core.pdb
+c:\Users\Aktore\documents\visual studio 2015\Projects\MVC\OnionApp\OnionApp.Infrastructure.Business\bin\Debug\OnionApp.Services.Interfaces.pdb
+c:\Users\Aktore\documents\visual studio 2015\Projects\MVC\OnionApp\OnionApp.Infrastructure.Business\obj\Debug\OnionApp.Infrastructure.Business.csprojResolveAssemblyReference.cache
+c:\Users\Aktore\documents\visual studio 2015\Projects\MVC\OnionApp\OnionApp.Infrastructure.Business\obj\Debug\OnionApp.Infrastructure.Business.dll
+c:\Users\Aktore\documents\visual studio 2015\Projects\MVC\OnionApp\OnionApp.Infrastructure.Business\obj\Debug\OnionApp.Infrastructure.Business.pdb

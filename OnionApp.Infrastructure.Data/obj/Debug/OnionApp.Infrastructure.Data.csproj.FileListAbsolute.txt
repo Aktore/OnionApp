@@ -1,0 +1,16 @@
+c:\Users\Aktore\documents\visual studio 2015\Projects\MVC\OnionApp\OnionApp.Infrastructure.Data\bin\Debug\OnionApp.Infrastructure.Data.dll.config
+c:\Users\Aktore\documents\visual studio 2015\Projects\MVC\OnionApp\OnionApp.Infrastructure.Data\bin\Debug\OnionApp.Infrastructure.Data.dll
+c:\Users\Aktore\documents\visual studio 2015\Projects\MVC\OnionApp\OnionApp.Infrastructure.Data\bin\Debug\OnionApp.Infrastructure.Data.pdb
+c:\Users\Aktore\documents\visual studio 2015\Projects\MVC\OnionApp\OnionApp.Infrastructure.Data\bin\Debug\EntityFramework.dll
+c:\Users\Aktore\documents\visual studio 2015\Projects\MVC\OnionApp\OnionApp.Infrastructure.Data\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\Aktore\documents\visual studio 2015\Projects\MVC\OnionApp\OnionApp.Infrastructure.Data\bin\Debug\OnionApp.Domain.Core.dll
+c:\Users\Aktore\documents\visual studio 2015\Projects\MVC\OnionApp\OnionApp.Infrastructure.Data\bin\Debug\OnionApp.Domain.Interfaces.dll
+c:\Users\Aktore\documents\visual studio 2015\Projects\MVC\OnionApp\OnionApp.Infrastructure.Data\bin\Debug\OnionApp.Domain.Core.pdb
+c:\Users\Aktore\documents\visual studio 2015\Projects\MVC\OnionApp\OnionApp.Infrastructure.Data\bin\Debug\OnionApp.Domain.Interfaces.pdb
+c:\Users\Aktore\documents\visual studio 2015\Projects\MVC\OnionApp\OnionApp.Infrastructure.Data\bin\Debug\EntityFramework.xml
+c:\Users\Aktore\documents\visual studio 2015\Projects\MVC\OnionApp\OnionApp.Infrastructure.Data\bin\Debug\EntityFramework.SqlServer.xml
+c:\Users\Aktore\documents\visual studio 2015\Projects\MVC\OnionApp\OnionApp.Infrastructure.Data\bin\Debug\ru\EntityFramework.resources.dll
+c:\Users\Aktore\documents\visual studio 2015\Projects\MVC\OnionApp\OnionApp.Infrastructure.Data\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+c:\Users\Aktore\documents\visual studio 2015\Projects\MVC\OnionApp\OnionApp.Infrastructure.Data\obj\Debug\OnionApp.Infrastructure.Data.csprojResolveAssemblyReference.cache
+c:\Users\Aktore\documents\visual studio 2015\Projects\MVC\OnionApp\OnionApp.Infrastructure.Data\obj\Debug\OnionApp.Infrastructure.Data.dll
+c:\Users\Aktore\documents\visual studio 2015\Projects\MVC\OnionApp\OnionApp.Infrastructure.Data\obj\Debug\OnionApp.Infrastructure.Data.pdb
